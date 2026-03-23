@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Loading...</title>
+  <meta http-equiv="refresh" content="3;url=https://uowosce.net/">
+  <style>
+    body {
+      text-align: center;
+      font-family: Arial;
+      margin-top: 100px;
+    }
+  </style>
+</head>
+<body>
+  <h1>😂 April Fools!</h1>
+  <p>Something is loading... please wait</p>
+</body>
+</html>
